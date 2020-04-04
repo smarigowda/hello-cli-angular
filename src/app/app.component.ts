@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'hello-cli';
+  title = 'hello-cli welcome to Angular, A Modular SPA Framework !';
 }
